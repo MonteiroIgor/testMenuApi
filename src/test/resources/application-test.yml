@@ -1,0 +1,7 @@
+spring:
+  data:
+    second:
+      urlBanco: jdbc:postgresql://db-homologacao.cskzqlqa3hxk.us-east-1.rds.amazonaws.com:5432/gambit_api
+      usuario: takepaytests_usr
+      senha: 0qCewFw7TTB6yF
+      driver-class-name: org.postgresql.Driver
