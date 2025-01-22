@@ -1,7 +1,0 @@
-spring:
-  data:
-    second:
-      urlBanco: jdbc:postgresql://localhost:5432/foods
-      usuario: postgres
-      senha: postgres
-      driver-class-name: org.postgresql.Driver
