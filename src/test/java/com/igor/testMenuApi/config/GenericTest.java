@@ -38,8 +38,8 @@ public class GenericTest {
 
     public String getJwt() throws JSONException {
         JSONObject auth = new JSONObject();
-        auth.put("login", "dev");
-        auth.put("password", "dev");
+        auth.put("login", "igormonteiro2");
+        auth.put("password", "123456789");
         JSONObject token = new JSONObject(
                 given().
                         contentType(ContentType.JSON).
